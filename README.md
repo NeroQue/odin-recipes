@@ -12,3 +12,10 @@ Just finished the template, instead of looking everything up, I tried to do it f
 ------------------------------------------------------
 
 Finished adding the first recipe, I have some troubles with commits, mainly I'm unsure when to commit and what to write, but I'll get better with time, I hope.
+
+------------------------------------------------------
+
+Finished the first recipe page, it wasn't difficult so far. I luckily found an error I made in my lists so I fixed it. Very happy I did it before starting other pages.
+
+------------------------------------------------------
+
