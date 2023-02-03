@@ -19,3 +19,4 @@ Finished the first recipe page, it wasn't difficult so far. I luckily found an e
 
 ------------------------------------------------------
 
+Done! I think I understand the things I practiced, I seem to have slowed down after having to repeat the same thing 3 times though. I'm also still practicing my commits!
