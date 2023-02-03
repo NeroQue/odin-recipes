@@ -10,3 +10,5 @@ In this assignment I hope to test my HTML knowledge as well as practice using Gi
 Just finished the template, instead of looking everything up, I tried to do it from memory and I seem to have succeeded. I forgot to include the "lang" argument in the opening tag of <html>. I'll be pushing my first commit now.
 
 ------------------------------------------------------
+
+Finished adding the first recipe, I have some troubles with commits, mainly I'm unsure when to commit and what to write, but I'll get better with time, I hope.
